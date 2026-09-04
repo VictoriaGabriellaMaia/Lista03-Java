@@ -2,10 +2,6 @@
 // Aprovado: média >= 70 | Recuperação: média >= 60 e < 70 | Reprovado: média < 60
 // O programa termina quando o usuário informar uma matrícula negativa.
 
-// Solicite a matrícula e as três notas de um conjunto de alunos.
-// Aprovado: média >= 70 | Recuperação: média >= 60 e < 70 | Reprovado: média < 60
-// O programa termina quando o usuário informar uma matrícula negativa.
-
 import java.util.Scanner;
 
 public class Questao2 {
