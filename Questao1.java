@@ -12,7 +12,7 @@ public class Questao1 {
 
         Scanner input = new Scanner(System.in);
 
-        double nota, maiorNota = -1, menorNota = 11, somaNotas = 0;
+        double nota, maiorNota = -1, menorNota = 100, somaNotas = 0;
         int faltas;
         int totalAlunos = 0, qtdNotaMaiorIgual90 = 0, qtdReprovados = 0;
 
